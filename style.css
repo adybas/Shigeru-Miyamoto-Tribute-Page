@@ -1,0 +1,41 @@
+body {
+	margin-top: 60px;
+	background-color: white;
+	color: black;
+	font-family: Helvetica; 
+}
+
+h1 {
+	font-size:100px;
+	margin-bottom:15px;
+	font-family: 'Lobster'; Times New Roman;
+}
+
+h2 {
+		font-family: 'Lobster'; Times New Roman;
+}
+
+
+h3 {
+		font-family: 'Lobster'; Times New Roman;
+	font-size:30px;
+}
+
+ul{
+	text-align:center;
+	color:Black;
+	font-size: 20px;
+}
+
+#Shigeru {
+	margin-bottom:25px;
+	width:100%;
+	height:auto;	
+	border: 5px solid black;
+}
+
+.PicsInARow {
+	width:25%;
+	height:25%;
+	margin-right:2px;
+}
